@@ -76,7 +76,6 @@ Revenue & Sales Structure:
 •	Customer repeat purchase rate is extremely low: ~97% of users made only one purchase 
 
 
-
 Logistics, Geography & Customer Satisfaction:
 
 •	Delivery delays significantly reduce review scores (R² ≈ 0.46) 
@@ -94,7 +93,6 @@ Logistics, Geography & Customer Satisfaction:
 •	Several states are underpenetrated relative to income and logistics profile → hidden growth potential
 
 
-
 Black Friday Insights:
 
 •	Black Friday does not always reduce prices (premiumization effect in some categories) 
@@ -107,19 +105,19 @@ ________________________________________
 
 •	Fix logistics as the core pain point
 
-          (reduce delays, improve delivery accuracy, especially in peak periods) 
+(reduce delays, improve delivery accuracy, especially in peak periods) 
 
 •	Address the retention gap
 
-          (focus on converting one-time buyers into repeat customers) 
+(focus on converting one-time buyers into repeat customers) 
 
 •	Reduce seller concentration risk
 
-          (support mid-tier sellers, improve distribution) 
+(support mid-tier sellers, improve distribution) 
 
 •	Expand in underpenetrated high-potential regions
           
-          (target states with strong income and acceptable logistics)
+(target states with strong income and acceptable logistics)
 ________________________________________
 6. Limitations
 
