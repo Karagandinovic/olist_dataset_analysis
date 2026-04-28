@@ -62,6 +62,7 @@ ________________________________________
 ________________________________________
 4. Key Insights
 
+
 Revenue & Sales Structure:
 
 •	Revenue is highly concentrated: TOP-13 categories generate ~70% of total revenue 
@@ -73,6 +74,7 @@ Revenue & Sales Structure:
 •	Most sellers have extremely low sales volume (median ~1 order/month)
 
 •	Customer repeat purchase rate is extremely low: ~97% of users made only one purchase 
+
 
 
 Logistics, Geography & Customer Satisfaction:
@@ -90,6 +92,7 @@ Logistics, Geography & Customer Satisfaction:
 •	Penetration positively correlates with income and negatively with logistics cost (R² ≈ 0.8) 
 
 •	Several states are underpenetrated relative to income and logistics profile → hidden growth potential
+
 
 
 Black Friday Insights:
